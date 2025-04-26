@@ -1,6 +1,6 @@
 # SCNU ：华南师范大学 LaTeX 中文简历模板
 
-![](./docs/CV-preview.jpg)
+![](./docs/SCNU-CV-preview.jpg)
 
 ## 简介
 
